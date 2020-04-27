@@ -1,0 +1,17 @@
+{
+  "name": "rnd-error-management-ts",
+  "version": "0.0.0",
+  "description": "error management in typescript",
+  "main": "dist/index.js",
+  "repository": "git@github.com:vellama/rnd-error-management-ts.git",
+  "author": "Vincent <vincent.ellama@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/chai": "^4.2.8",
+    "@types/mocha": "^7.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "typescript": "^3.7.5"
+  }
+}
